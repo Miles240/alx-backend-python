@@ -1,4 +1,4 @@
-#!usr/bim/env python3
+#!/usr/bim/env python3
 
 a: int = 1
 pi: float = 3.14
